@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tgs/static/css/main.5dcab94a.css",
-    "main.js": "/tgs/static/js/main.be725a33.js",
+    "main.css": "/tgs/static/css/main.19a2eda2.css",
+    "main.js": "/tgs/static/js/main.939b8524.js",
     "static/js/787.5f12fd6e.chunk.js": "/tgs/static/js/787.5f12fd6e.chunk.js",
     "static/media/oneplus.gif": "/tgs/static/media/oneplus.84b21fd1441489e91b23.gif",
     "static/media/samsung.gif": "/tgs/static/media/samsung.b893b6cde247e2f7c8b7.gif",
@@ -12,11 +12,7 @@
     "static/media/sli.gif": "/tgs/static/media/sli.d5f852607703f000923c.gif",
     "static/media/tgs_logo.png": "/tgs/static/media/tgs_logo.5d042e99c8f3c2269e88.png",
     "static/media/tgs_logoc (2).png": "/tgs/static/media/tgs_logoc (2).aa42c3b4d8ac0cad89e3.png",
-    "static/media/infinix.jpg": "/tgs/static/media/infinix.7cbbc9d7fab105308d4e.jpg",
     "static/media/mi.jpg": "/tgs/static/media/mi.8ffac476232e6ecafb72.jpg",
-    "static/media/motorola.png": "/tgs/static/media/motorola.cd8f0b2023500d098dcb.png",
-    "static/media/oppo.jpg": "/tgs/static/media/oppo.d6b7fb30ae388ce1573c.jpg",
-    "static/media/google.png": "/tgs/static/media/google.7917d1eb5756b8b957a9.png",
     "static/media/sam2.webp": "/tgs/static/media/sam2.db264b6c7ab6b61a44cd.webp",
     "static/media/realme2.webp": "/tgs/static/media/realme2.2c9692e8ebe2cef195f7.webp",
     "static/media/sam4.webp": "/tgs/static/media/sam4.0afc3d5008fa85f65e39.webp",
@@ -24,9 +20,7 @@
     "static/media/revicons.ttf": "/tgs/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/sam1.webp": "/tgs/static/media/sam1.30b2fc891196ccdd9039.webp",
     "static/media/realme7.webp": "/tgs/static/media/realme7.1676830671ec1b14b513.webp",
-    "static/media/iphone1-2.webp": "/tgs/static/media/iphone1-2.f77be57d54b942bab62a.webp",
     "static/media/realme1.webp": "/tgs/static/media/realme1.b05125a47420e1ec89c6.webp",
-    "static/media/vivo.jpg": "/tgs/static/media/vivo.3d50b3ef0e67640c1b38.jpg",
     "static/media/realme.jfif": "/tgs/static/media/realme.cde2f26346e1d9b14acb.jfif",
     "static/media/mi5.webp": "/tgs/static/media/mi5.784adc3266b16f1882fd.webp",
     "static/media/sam7.webp": "/tgs/static/media/sam7.e874314fb07255d2bd66.webp",
@@ -56,14 +50,13 @@
     "static/media/iphone2.webp": "/tgs/static/media/iphone2.99e82f6d2e2a498ac89c.webp",
     "static/media/iphone4.webp": "/tgs/static/media/iphone4.3e65a4844967f3e1423b.webp",
     "static/media/mastercard.jfif": "/tgs/static/media/mastercard.67e353bb92c0080336e5.jfif",
-    "static/media/iphone1-1.webp": "/tgs/static/media/iphone1-1.3367bc128417cdd2419f.webp",
     "index.html": "/tgs/index.html",
-    "main.5dcab94a.css.map": "/tgs/static/css/main.5dcab94a.css.map",
-    "main.be725a33.js.map": "/tgs/static/js/main.be725a33.js.map",
+    "main.19a2eda2.css.map": "/tgs/static/css/main.19a2eda2.css.map",
+    "main.939b8524.js.map": "/tgs/static/js/main.939b8524.js.map",
     "787.5f12fd6e.chunk.js.map": "/tgs/static/js/787.5f12fd6e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5dcab94a.css",
-    "static/js/main.be725a33.js"
+    "static/css/main.19a2eda2.css",
+    "static/js/main.939b8524.js"
   ]
 }
