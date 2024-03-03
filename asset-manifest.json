@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tgs/static/css/main.19a2eda2.css",
-    "main.js": "/tgs/static/js/main.5f6d436e.js",
+    "main.js": "/tgs/static/js/main.fee3c04e.js",
     "static/js/787.5f12fd6e.chunk.js": "/tgs/static/js/787.5f12fd6e.chunk.js",
     "static/media/oneplus.gif": "/tgs/static/media/oneplus.84b21fd1441489e91b23.gif",
     "static/media/samsung.gif": "/tgs/static/media/samsung.b893b6cde247e2f7c8b7.gif",
@@ -52,11 +52,11 @@
     "static/media/mastercard.jfif": "/tgs/static/media/mastercard.67e353bb92c0080336e5.jfif",
     "index.html": "/tgs/index.html",
     "main.19a2eda2.css.map": "/tgs/static/css/main.19a2eda2.css.map",
-    "main.5f6d436e.js.map": "/tgs/static/js/main.5f6d436e.js.map",
+    "main.fee3c04e.js.map": "/tgs/static/js/main.fee3c04e.js.map",
     "787.5f12fd6e.chunk.js.map": "/tgs/static/js/787.5f12fd6e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.19a2eda2.css",
-    "static/js/main.5f6d436e.js"
+    "static/js/main.fee3c04e.js"
   ]
 }
